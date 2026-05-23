@@ -1,7 +1,7 @@
-## Proyecto - Juego del Buscaminas (Version Personal)
+# Proyecto - Juego del Buscaminas (Version Personal)
 
-# Proximamente Proyecto personal 
-* Prototipo del juego buscaminas.
+## Topicos del Prototipo del Juego
+* Version Retro del Juego del Buscaminas.
 * Logica Sencilla
 * Interfaz amigable
 * Facil de Jugar
